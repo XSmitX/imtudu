@@ -249,7 +249,7 @@ async def approve_single_request(client, chat_id, user_id, user_first_name, chat
         await client.send_photo(
             chat_id=user_id,
             photo="https://ibb.co/8nRJ3Ndp",
-            caption=f'''<b>1000+ Games Available On https://bit.ly/Imtudu100exch1
+            caption=f'''<b>1000+ Games Available On https://rebrand.ly/the100imtudu
 
 Cricket, Tennis, Football, TeenPatti, Aviator, Mines, Dragon Tiger, Andar Bahar ETC - 1000+ Games 🤑
 
@@ -263,8 +263,8 @@ Official Telegram Link👇
 https://t.me/+dWexXsRpmhkyYmZl
 
 𝗠𝗔𝗞𝗘 𝗬𝗢𝗨𝗥 𝗜𝗗 𝗡𝗢𝗪 👇
-➡️ https://bit.ly/Imtudu100exch1
-➡️ https://bit.ly/Imtudu100exch1</b>'''
+➡️ https://rebrand.ly/the100imtudu
+➡️ https://rebrand.ly/the100imtudu</b>'''
         )
         # Send approval notification to the user
         await client.send_message(
